@@ -3,9 +3,9 @@ pipeline {
 
     stages {
 
-        stage('Clone Repository') {
+        stage('Checkout') {
             steps {
-                git 'https://github.com/Teejaz123/js-ci-cd.git'
+                checkout scm
             }
         }
 
