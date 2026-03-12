@@ -1,0 +1,20 @@
+{
+  "name": "js-ci-cd",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teejaz123/js-ci-cd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Teejaz123/js-ci-cd/issues"
+  },
+  "homepage": "https://github.com/Teejaz123/js-ci-cd#readme",
+  "description": ""
+}
